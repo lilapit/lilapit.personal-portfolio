@@ -146,3 +146,9 @@ img {
     height: 70vh;
   }
 }
+
+@media only screen and (max-width: 550px) {
+  .information {
+    top: 350vh;
+  }
+}
